@@ -1,0 +1,26 @@
+
+{ "documents": [
+    {
+    "name": "projects/shopping-list-738d3/databases/(default)/documents/Items/14CE3F9C-8DE6-4839-A59F-8BE2705AB545",
+    "fields": {
+    "name": {
+    "stringValue": "uhh"
+    },
+    "imageLink": {
+    "nullValue": null
+    },
+    "id": {
+    "stringValue": "14CE3F9C-8DE6-4839-A59F-8BE2705AB545"
+    },
+    "description": {
+    "stringValue": "Description"
+    },
+    "price": {
+    "stringValue": "6767877777777777"
+    }
+    },
+    "createTime": "2021-03-12T07:53:15.284221Z",
+    "updateTime": "2021-03-12T07:53:15.284221Z"
+    }
+    ]
+}
