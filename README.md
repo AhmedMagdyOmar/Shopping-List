@@ -38,9 +38,13 @@ pod 'JGProgressHUD'
 It is MVC architecture ,   the app was divided  to  groubs:  
 
 1- Model groub contains files that represents the shape of the data. 
+
 2- View group contains files that display model data to the user.
+
 3- Controller group contains files handles the user request. 
+
 4- Netwoking group contains files that handle network action.
+
 5-Helper group contains file that gives some facilitates like wrap some useful functionality that you're going to reuse over and over again. 
 
 
